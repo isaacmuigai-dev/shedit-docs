@@ -1,6 +1,6 @@
-# Cal Trek Landing Page 🚀
+# Shed It! Landing Page 🚀
 
-Welcome to the official landing page for **Cal Trek**, the premium AI-powered calorie tracking app.
+Welcome to the official landing page for **Shed It!**, the premium AI-powered calorie tracking app.
 
 ## ✨ Features
 
@@ -44,4 +44,4 @@ The project is configured to be hosted on GitHub Pages.
 
 ---
 
-Built with ❤️ for Cal Trek.
+Built with ❤️ for Shed It!.
