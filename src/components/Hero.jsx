@@ -86,7 +86,7 @@ const Hero = () => {
                   <img 
                     src={`${import.meta.env.BASE_URL}assets/home.jpg`} 
                     className="w-full h-full object-cover" 
-                    alt="Cal Trek App" 
+                    alt="AmiPal App" 
                   />
                 </div>
               </div>
