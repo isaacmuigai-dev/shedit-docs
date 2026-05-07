@@ -1,6 +1,6 @@
-# AmiPal Landing Page 🚀
+# CalTrek Landing Page 🚀
 
-Welcome to the official landing page for **AmiPal**, the premium AI-powered calorie tracking app.
+Welcome to the official landing page for **CalTrek**, the premium AI-powered calorie tracking app.
 
 ## ✨ Features
 
@@ -44,4 +44,4 @@ The project is configured to be hosted on GitHub Pages.
 
 ---
 
-Built with ❤️ for AmiPal.
+Built with ❤️ for CalTrek.
